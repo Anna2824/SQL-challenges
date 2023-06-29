@@ -11,7 +11,7 @@ SELECT * FROM menu;
 
 SELECT * FROM sales;
 
---We have so far used Inner joins, Group by, order by, sum, distinct, as, count, min, partition by, dense_rank() functions and CTEs.
+--We have so far used Inner joins, Group by, order by, sum, distinct, as, count, min, partition by, dense_rank() functions CTEs and case statements.
 
 --1. What is the total amount each customer spent at the restaurant?
 
